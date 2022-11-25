@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448px" height="556px" viewBox="0 0 448 556" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 13</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="What_is_5G-Desktop_Alt2" transform="translate(-1218.000000, -2826.000000)">
+            <g id="Group-13" transform="translate(1218.000000, 2826.000000)">
+                <rect id="Rectangle" x="0" y="0" width="448" height="556"></rect>
+                <g id="Group-11" transform="translate(34.000000, 7.000000)">
+                    <text id="1980-1G:-Mobile-voic" font-family="EricssonHilda-Bold, Ericsson Hilda" font-size="15" font-weight="bold" line-spacing="20.8" fill="#242424">
+                        <tspan x="183" y="20">1980</tspan>
+                        <tspan x="216.6" y="20" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400"></tspan>
+                        <tspan x="183" y="40.8" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">1G: Mobile voice calls</tspan>
+                    </text>
+                    <text id="1990-2G:-Mobile-voic" font-family="EricssonHilda-Bold, Ericsson Hilda" font-size="15" font-weight="bold" line-spacing="20.8" fill="#242424">
+                        <tspan x="183" y="114">1990</tspan>
+                        <tspan x="216.6" y="114" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400"></tspan>
+                        <tspan x="183" y="134.8" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">2G: Mobile voice calls and SMS</tspan>
+                    </text>
+                    <text id="2000-3G:-Mobile-web" font-family="EricssonHilda-Bold, Ericsson Hilda" font-size="15" font-weight="bold" line-spacing="20.8" fill="#242424">
+                        <tspan x="183" y="208">2000</tspan>
+                        <tspan x="216.6" y="208" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400"></tspan>
+                        <tspan x="183" y="228.8" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">3G: Mobile web browsing</tspan>
+                    </text>
+                    <text id="2010-4G:-Mobile-vide" font-family="EricssonHilda-Bold, Ericsson Hilda" font-size="15" font-weight="bold" line-spacing="20.8" fill="#242424">
+                        <tspan x="183" y="296">2010</tspan>
+                        <tspan x="216.6" y="296" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400"></tspan>
+                        <tspan x="183" y="316.8" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">4G: Mobile video consumption</tspan>
+                        <tspan x="183" y="337.6" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">and higher data speed</tspan>
+                    </text>
+                    <text id="2020-5G:-Technology" font-family="EricssonHilda-Bold, Ericsson Hilda" font-size="15" font-weight="bold" line-spacing="20.8" fill="#242424">
+                        <tspan x="183" y="390">2020</tspan>
+                        <tspan x="216.6" y="390" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400"></tspan>
+                        <tspan x="183" y="410.8" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">5G: Technology to enhance </tspan>
+                        <tspan x="183" y="431.6" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">experiences and drive </tspan>
+                        <tspan x="183" y="452.4" font-family="EricssonHilda-Medium, Ericsson Hilda" font-weight="400">digitalization of industries</tspan>
+                    </text>
+                    <g id="Group-4" transform="translate(115.000000, 188.000000)">
+                        <circle id="Oval-Copy-5" stroke="#242424" stroke-width="2" cx="26.9999993" cy="26.9999993" r="26.9999993"></circle>
+                        <g id="Support-services" transform="translate(9.000000, 15.300000)" fill="#020202" fill-rule="nonzero">
+                            <path d="M33.6599991,22.1390994 L33.6599991,3.05999992 C33.6599991,1.79250645 32.6324926,0.76499998 31.3649992,0.76499998 L5.35499986,0.76499998 C4.08750639,0.76499998 3.05999992,1.79250645 3.05999992,3.05999992 L3.05999992,22.1390994 L0,22.1390994 L0,23.6690994 L36.719999,23.6690994 L36.719999,22.1390994 L33.6599991,22.1390994 Z M4.58999988,3.05999992 C4.58999988,2.6375021 4.93250204,2.29499994 5.35499986,2.29499994 L31.3649992,2.29499994 C31.787497,2.29499994 32.1299991,2.6375021 32.1299991,3.05999992 L32.1299991,22.0319994 L4.58999988,22.0319994 L4.58999988,3.05999992 Z" id="Shape"></path>
+                            <circle id="Oval" cx="15.2081996" cy="12.5459997" r="1.14749997"></circle>
+                            <path d="M17.9927995,9.40949975 L16.9217996,10.5110997 C17.5430142,11.0136417 17.9039674,11.7699152 17.9039674,12.5689497 C17.9039674,13.3679841 17.5430142,14.1242577 16.9217996,14.6267996 L17.9621995,15.7436996 C18.9199373,14.9564682 19.480115,13.7856967 19.4921995,12.5459997 C19.4759937,11.3313338 18.9279303,10.1848746 17.9927995,9.40949975 Z" id="Path"></path>
+                            <path d="M19.0484995,8.30789978 C20.2614286,9.39867007 20.9464614,10.9585442 20.9288907,12.5896997 C20.9113199,14.2208551 20.192844,15.7656107 18.9566995,16.8299996 L19.9970995,17.9468995 C21.5347661,16.6003308 22.4267532,14.6630351 22.450111,12.6192347 C22.4734687,10.5754342 21.6259898,8.6182589 20.1194995,7.23689981 L19.0484995,8.30789978 Z" id="Path"></path>
+                        </g>
+                    </g>
+                    <g id="Group-5" transform="translate(115.000000, 94.000000)">
+                        <circle id="Oval-Copy-7" stroke="#242424" stroke-width="2" cx="26.9999993" cy="26.9999993" r="26.9999993"></circle>
+                        <g id="Voice--VoLTE" transform="translate(16.200000, 14.400000)" fill="#010101" fill-rule="nonzero">
+                            <path d="M13.7699996,24.4799994 L3.05999992,24.4799994 C1.79250645,24.4799994 0.76499998,23.4524929 0.76499998,22.1849994 L0.76499998,2.29499994 C0.76499998,1.02750647 1.79250645,0 3.05999992,0 L13.7699996,0 C15.0374931,0 16.0649996,1.02750647 16.0649996,2.29499994 L16.0649996,4.58999988 L14.5349996,4.58999988 L14.5349996,2.29499994 C14.5349996,1.87250212 14.1924975,1.52999996 13.7699996,1.52999996 L3.05999992,1.52999996 C2.6375021,1.52999996 2.29499994,1.87250212 2.29499994,2.29499994 L2.29499994,22.1849994 C2.29499994,22.6074972 2.6375021,22.9499994 3.05999992,22.9499994 L13.7699996,22.9499994 C14.1924975,22.9499994 14.5349996,22.6074972 14.5349996,22.1849994 L14.5349996,18.3599995 L16.0649996,18.3599995 L16.0649996,22.1849994 C16.0649996,23.4524929 15.0374931,24.4799994 13.7699996,24.4799994 Z" id="Path"></path>
+                            <circle id="Oval" cx="8.39969978" cy="19.8899995" r="1.14749997"></circle>
+                            <rect id="Rectangle" x="13.0202997" y="8.49149978" width="1.52999996" height="6.11999984"></rect>
+                            <rect id="Rectangle" x="16.0649996" y="6.11999984" width="1.52999996" height="10.7099997"></rect>
+                            <rect id="Rectangle" x="19.1249995" y="8.49149978" width="1.52999996" height="6.11999984"></rect>
+                            <rect id="Rectangle" x="22.2002994" y="10.0214997" width="1.52999996" height="3.05999992"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-6" transform="translate(115.000000, 0.000000)">
+                        <circle id="Oval-Copy-8" stroke="#242424" stroke-width="2" cx="27" cy="27" r="27"></circle>
+                        <g id="icon/light/phone_cobra" transform="translate(17.100000, 14.400000)" fill="#242424">
+                            <path d="M1.571769,22.862484 L15.077079,22.862484 C14.748129,19.999854 12.607659,17.588574 9.745029,16.979634 L9.201879,16.864884 L9.143739,16.312554 C9.122319,16.110594 8.651079,11.363004 11.160279,8.670204 C12.024729,7.738434 13.319109,7.479864 14.253939,7.427844 C14.546169,7.411014 14.813919,7.198344 14.919489,6.895404 L16.423479,2.556324 C16.556589,2.169234 16.362279,1.892304 16.272009,1.791324 C16.181739,1.688814 15.927759,1.453194 15.519249,1.551114 C13.807179,1.932084 12.298599,2.553264 11.034819,3.394764 C7.552539,5.714244 6.311709,11.734794 6.311709,16.594074 L6.311709,17.114274 L5.828229,17.305524 C3.456729,18.243414 1.848699,20.376234 1.571769,22.862484 L1.571769,22.862484 Z M16.649919,24.392484 L0.000459,24.392484 L0.000459,23.627484 C0.000459,20.362464 1.860939,17.458524 4.786299,16.089174 C4.873509,10.923894 6.327009,4.690674 10.185669,2.121804 C11.608569,1.174734 13.290039,0.480114 15.185709,0.057834 C16.019559,-0.127296 16.848819,0.140454 17.413389,0.772344 C17.976429,1.402704 18.146259,2.256444 17.869329,3.058164 L16.363809,7.398774 C16.053219,8.293824 15.259149,8.904294 14.339619,8.954784 C13.686309,8.993034 12.798909,9.153684 12.280239,9.710604 C10.672209,11.439504 10.592649,14.423004 10.633959,15.627114 C14.152959,16.643034 16.649919,19.917234 16.649919,23.627484 L16.649919,24.392484 Z" id="Fill-1"></path>
+                        </g>
+                    </g>
+                    <g id="Group-3" transform="translate(115.000000, 282.000000)">
+                        <circle id="Oval-Copy-6" stroke="#242424" stroke-width="2" cx="26.9999993" cy="26.9999993" r="26.9999993"></circle>
+                        <g id="Media---tablet" transform="translate(11.700000, 15.300000)" fill="#010101" fill-rule="nonzero">
+                            <path d="M28.3049993,23.7149994 L2.29499994,23.7149994 C1.02750647,23.7149994 0,22.6874929 0,21.4199994 L0,3.05999992 C0,1.79250645 1.02750647,0.76499998 2.29499994,0.76499998 L28.3049993,0.76499998 C29.5724927,0.76499998 30.5999992,1.79250645 30.5999992,3.05999992 L30.5999992,21.4199994 C30.5999992,22.6874929 29.5724927,23.7149994 28.3049993,23.7149994 Z M2.29499994,2.29499994 C1.87250212,2.29499994 1.52999996,2.6375021 1.52999996,3.05999992 L1.52999996,21.4199994 C1.52999996,21.8424973 1.87250212,22.1849994 2.29499994,22.1849994 L28.3049993,22.1849994 C28.7274971,22.1849994 29.0699992,21.8424973 29.0699992,21.4199994 L29.0699992,3.05999992 C29.0699992,2.6375021 28.7274971,2.29499994 28.3049993,2.29499994 L2.29499994,2.29499994 Z" id="Shape"></path>
+                            <ellipse id="Oval" cx="26.0405993" cy="12.2093997" rx="1.14749997" ry="1.16279997"></ellipse>
+                            <polygon id="Path" points="12.6989997 9.17999976 17.9162995 12.2399997 12.6836997 15.2999996"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(115.000000, 376.000000)">
+                        <circle id="Oval-Copy-9" stroke="#242424" stroke-width="2" cx="26.9999993" cy="26.9999993" r="26.9999993"></circle>
+                        <g id="IoT---smart-cities" transform="translate(9.900000, 11.700000)" fill="#010101" fill-rule="nonzero">
+                            <path d="M33.6599991,27.7721993 L33.6599991,15.0272996 L28.4120992,19.0664995 L28.4120992,15.0119996 L22.9499994,19.2806995 L22.9499994,9.47339975 L10.7099997,9.47339975 L10.7099997,17.1233995 L6.11999984,15.5933996 L0,17.5670995 L0,27.7568993 L0,27.7568993 L0,29.2868992 L33.6599991,29.2868992 L33.6599991,27.7568993 L33.6599991,27.7721993 Z M26.8820993,18.1484995 L26.8820993,22.1570994 L32.1299991,18.1331995 L32.1299991,27.7721993 L22.9499994,27.7721993 L22.9499994,21.2237994 L26.8820993,18.1484995 Z M12.2399997,11.0033997 L21.4199994,11.0033997 L21.4199994,27.8333993 L12.2399997,27.8333993 L12.2399997,11.0033997 Z M1.52999996,18.6533995 L6.11999984,17.1233995 L10.7099997,18.6533995 L10.7099997,27.7568993 L1.52999996,27.7568993 L1.52999996,18.6533995 Z" id="Shape"></path>
+                            <rect id="Rectangle" x="14.4890996" y="15.5627996" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="17.5949995" y="15.5627996" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="14.5349996" y="18.6380995" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="17.6408995" y="18.6380995" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="14.5349996" y="21.6827994" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="17.6408995" y="21.6827994" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="14.5349996" y="24.7121993" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="17.6408995" y="24.7121993" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="14.4890996" y="12.5027997" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="17.5949995" y="12.5027997" width="1.49939996" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="4.57469988" y="24.7121993" width="3.05999992" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="4.55939988" y="20.9177994" width="3.09059992" height="1.52999996"></rect>
+                            <rect id="Rectangle" x="16.0649996" y="3.32279991" width="1.52999996" height="1.54529996"></rect>
+                            <rect id="Rectangle" x="16.0649996" y="0.262799993" width="1.52999996" height="1.54529996"></rect>
+                            <rect id="Rectangle" x="16.0649996" y="6.38279983" width="1.52999996" height="1.54529996"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-8" transform="translate(57.000000, 407.000000)">
+                        <g id="Group-7" transform="translate(6.000000, 66.000000) rotate(90.000000) translate(-6.000000, -66.000000) translate(1.000000, 60.500000)" stroke="#242424" stroke-width="2">
+                            <g id="Group-5-Copy-8" transform="translate(0.000000, 0.000000)">
+                                <polyline id="Stroke-3" transform="translate(4.949747, 5.500253) rotate(-315.000000) translate(-4.949747, -5.500253) " points="1.44974747 2.00025253 8.43016171 2.01983829 8.44974747 9.00025253"></polyline>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-Copy-11" fill="#242424" x="5" y="0" width="2" height="70"></rect>
+                    </g>
+                    <g id="Group-9" transform="translate(58.000000, 22.000000)" fill="#242424">
+                        <rect id="Rectangle" x="9" y="4" width="48" height="2"></rect>
+                        <circle id="Oval" cx="5" cy="5" r="5"></circle>
+                    </g>
+                    <rect id="Rectangle-Copy-4" fill="#242424" x="67" y="120" width="48" height="2"></rect>
+                    <circle id="Oval-Copy" fill="#242424" cx="63" cy="121" r="5"></circle>
+                    <rect id="Rectangle-Copy-6" fill="#242424" x="67" y="214" width="48" height="2"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#242424" x="67" y="308" width="48" height="2"></rect>
+                    <rect id="Rectangle-Copy-10" fill="#242424" x="67" y="402" width="48" height="2"></rect>
+                    <circle id="Oval-Copy-2" fill="#242424" cx="63" cy="215" r="5"></circle>
+                    <circle id="Oval-Copy-3" fill="#242424" cx="63" cy="309" r="5"></circle>
+                    <circle id="Oval-Copy-4" fill="#242424" cx="63" cy="403" r="5"></circle>
+                    <rect id="Rectangle" fill="#242424" x="62" y="31" width="2" height="90"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#242424" x="62" y="125" width="2" height="90"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#242424" x="62" y="219" width="2" height="90"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#242424" x="62" y="313" width="2" height="90"></rect>
+                    <rect id="Rectangle" fill="#0082F0" x="30" y="27" width="8" height="451"></rect>
+                    <rect id="Rectangle-Copy-12" fill="#0FC373" x="20" y="217" width="8" height="261"></rect>
+                    <rect id="Rectangle-Copy-13" fill="#AF78D2" x="10" y="339" width="8" height="139"></rect>
+                    <rect id="Rectangle-Copy-14" fill="#FF8C0A" x="0" y="408" width="8" height="70"></rect>
+                </g>
+                <g id="Group-10" transform="translate(34.000000, 525.000000)">
+                    <text id="Voice" font-family="EricssonHilda-Medium, Ericsson Hilda" font-size="13" font-weight="400" fill="#242424">
+                        <tspan x="14" y="12">Voice</tspan>
+                    </text>
+                    <text id="…and-Mobile-broadban" font-family="EricssonHilda-Medium, Ericsson Hilda" font-size="13" font-weight="400" fill="#242424">
+                        <tspan x="81" y="12">…and Mobile broadband</tspan>
+                    </text>
+                    <text id="…and-IoT" font-family="EricssonHilda-Medium, Ericsson Hilda" font-size="13" font-weight="400" fill="#242424">
+                        <tspan x="254" y="12">…and IoT</tspan>
+                    </text>
+                    <text id="…and?" font-family="EricssonHilda-Medium, Ericsson Hilda" font-size="13" font-weight="400" fill="#242424">
+                        <tspan x="343" y="12">…and?</tspan>
+                    </text>
+                    <circle id="Oval-Copy-4" fill="#0082F0" cx="4" cy="8" r="4"></circle>
+                    <circle id="Oval-Copy-10" fill="#0FC373" cx="71" cy="8" r="4"></circle>
+                    <circle id="Oval-Copy-11" fill="#AF78D2" cx="244" cy="8" r="4"></circle>
+                    <circle id="Oval-Copy-12" fill="#FF8C0A" cx="333" cy="8" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
